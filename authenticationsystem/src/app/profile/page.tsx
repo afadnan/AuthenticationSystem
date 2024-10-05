@@ -9,7 +9,8 @@ export default function Userprofile(){
                 Profile
             </h1>
             <hr />
-            <p className="text-4xl">Profile Page </p>
+            <p className="text-4xl">Profile Page 
+                </p>
         </div>
     )
 }
